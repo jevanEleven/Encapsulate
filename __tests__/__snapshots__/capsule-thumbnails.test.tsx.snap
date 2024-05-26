@@ -1,0 +1,185 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CapsuleCard should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="bg-white max-w-xs w-[320px] rounded-lg overflow-hidden shadow-lg transform transition-transform hover:scale-105"
+  >
+    <div
+      class="px-6 py-4"
+    >
+      <div
+        class="font-bold text-xl mb-2"
+      >
+        Test Capsule
+      </div>
+      <div
+        class="flex justify-between"
+      >
+        <span
+          class="text-gray-700 text-sm"
+        >
+          Unlocks on: 25/04/2024
+        </span>
+      </div>
+    </div>
+    <div
+      class="px-6 pt-4 pb-4"
+    >
+      <div
+        class="flex"
+      >
+        <div
+          class="w-1/3 flex flex-col items-center"
+        >
+          <svg
+            baseProfile="basic"
+            class="mb-2 w-8 h-8"
+            enable-background="new 0 0 83.333 76.459"
+            height="4"
+            id="Layer_1"
+            overflow="visible"
+            viewBox="0 0 83.333 76.459"
+            width="4"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M42.083,64.791l-0.416,0.418l-0.459-0.418C21.417,46.834,8.333,34.959,8.333,22.916 c0-8.332,6.25-14.582,14.584-14.582c6.416,0,12.666,4.166,14.875,9.832h7.75C47.75,12.5,54,8.334,60.417,8.334 C68.75,8.334,75,14.584,75,22.916C75,34.959,61.917,46.834,42.083,64.791 M60.417,0c-7.25,0-14.209,3.375-18.75,8.666 C37.125,3.375,30.167,0,22.917,0C10.083,0,0,10.041,0,22.916C0,38.625,14.167,51.5,35.625,70.959l6.041,5.5l6.041-5.5 C69.167,51.5,83.333,38.625,83.333,22.916C83.333,10.041,73.25,0,60.417,0z"
+              fill="#010101"
+            />
+          </svg>
+          <p
+            class="text-gray-600 text-sm"
+          >
+            10
+          </p>
+        </div>
+        <div
+          class="w-1/3 flex flex-col items-center"
+        >
+          <svg
+            baseProfile="basic"
+            class="mb-2 w-8 h-8"
+            enable-background="new 0 0 83.34 83.34"
+            height="83.34"
+            id="Layer_1"
+            overflow="visible"
+            version="1.1"
+            viewBox="0 0 83.34 83.34"
+            width="83.34"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <g
+              id="XMLID_1_"
+            >
+              <g>
+                <path
+                  d="M75,58.34v-50H8.34v50h25v12.83l12.83-12.83H75z M83.34,8.34v50c0,4.6-3.729,8.33-8.34,8.33H49.59 L34.17,82.13c-0.83,0.79-1.88,1.21-2.92,1.21h-2.08c-2.3,0-4.17-1.87-4.17-4.17v-12.5H8.34c-4.61,0-8.34-3.73-8.34-8.33v-50 C0,3.71,3.75,0,8.34,0H75C79.61,0,83.34,3.73,83.34,8.34z"
+                  fill="#010101"
+                />
+                <polygon
+                  fill="#FFFFFF"
+                  points="75,8.34 75,58.34 46.17,58.34 33.34,71.17 33.34,58.34 8.34,58.34 8.34,8.34   "
+                />
+              </g>
+              <g />
+            </g>
+          </svg>
+          <p
+            class="text-gray-600 text-sm"
+          >
+            5
+          </p>
+        </div>
+        <div
+          class="w-1/3 flex flex-col items-center"
+        >
+          <svg
+            baseProfile="basic"
+            class="mb-2 w-8 h-8"
+            enable-background="new 0 0 66.66 87.5"
+            height="87.5"
+            id="Layer_1"
+            overflow="visible"
+            version="1.1"
+            viewBox="0 0 66.66 87.5"
+            width="66.66"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <g
+              id="XMLID_1_"
+            >
+              <g>
+                <circle
+                  cx="33.33"
+                  cy="58.33"
+                  fill="#010101"
+                  r="8.33"
+                />
+                <path
+                  d="M8.33,79.16V37.5h50v41.66H8.33z M20.83,20.83c0-6.9,5.6-12.5,12.5-12.5c6.9,0,12.5,5.6,12.5,12.5h8.33 C54.16,9.32,44.84,0,33.33,0S12.5,9.32,12.5,20.83v8.33H8.33C3.73,29.16,0,32.89,0,37.5v41.66c0,4.61,3.73,8.34,8.33,8.34h50 c4.62,0,8.33-3.75,8.33-8.34V37.5c0-4.61-3.73-8.34-8.33-8.34h-37.5V20.83z"
+                  fill="#010101"
+                />
+                <path
+                  d="M8.33,79.16h50V37.5h-50V79.16z M25,58.33c0-4.6,3.73-8.33,8.33-8.33c4.6,0,8.33,3.73,8.33,8.33 s-3.73,8.33-8.33,8.33C28.73,66.66,25,62.93,25,58.33z"
+                  fill="#FFFFFF"
+                />
+              </g>
+            </g>
+          </svg>
+          <p
+            class="text-gray-600 text-sm"
+          >
+            unlocked
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`CapsuleRow should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="max-w-xs w-full bg-white shadow-lg rounded-lg overflow-hidden hover:scale-105 transition-transform duration-300"
+  >
+    <div
+      class="flex items-center"
+    >
+      <img
+        alt="Placeholder"
+        class="h-16 w-16 object-cover"
+        src="https://www.svgrepo.com/show/334497/capsule.svg"
+      />
+      <div
+        class="ml-2 w-full"
+      >
+        <div
+          class="font-bold text-sm mb-1"
+        >
+          Name: Test Capsule
+        </div>
+        <div
+          class="flex text-xs"
+        >
+          <div
+            class="w-1/2"
+          >
+            Created At: 
+            <br />
+             24/04/2024
+          </div>
+          <div
+            class="w-1/2"
+          >
+            Unlocking On: 
+            <br />
+             25/04/2024
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

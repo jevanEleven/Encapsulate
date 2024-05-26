@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CapsuleLikes should match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <button
+      class="justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2 flex flex-row items-center"
+    >
+      <div
+        class="flex items-center"
+      >
+        <span>
+          0
+        </span>
+        <svg
+          baseProfile="basic"
+          class="ml-2 size-3"
+          enable-background="new 0 0 83.333 76.459"
+          height="4"
+          id="Layer_1"
+          overflow="visible"
+          viewBox="0 0 83.333 76.459"
+          width="4"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M42.083,64.791l-0.416,0.418l-0.459-0.418C21.417,46.834,8.333,34.959,8.333,22.916 c0-8.332,6.25-14.582,14.584-14.582c6.416,0,12.666,4.166,14.875,9.832h7.75C47.75,12.5,54,8.334,60.417,8.334 C68.75,8.334,75,14.584,75,22.916C75,34.959,61.917,46.834,42.083,64.791 M60.417,0c-7.25,0-14.209,3.375-18.75,8.666 C37.125,3.375,30.167,0,22.917,0C10.083,0,0,10.041,0,22.916C0,38.625,14.167,51.5,35.625,70.959l6.041,5.5l6.041-5.5 C69.167,51.5,83.333,38.625,83.333,22.916C83.333,10.041,73.25,0,60.417,0z"
+            fill="#010101"
+          />
+        </svg>
+      </div>
+    </button>
+  </div>
+</DocumentFragment>
+`;
